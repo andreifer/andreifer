@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreifer&layout=compact)](https://github.com/andreifer/github-readme-stats)
 
-### Tecnologias que eu uso no dia a dia:
+## Tecnologias que eu uso no dia a dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,6 +28,6 @@
 
 <br>
 
-## "Enquanto Deus for meu chão, não há quem me derrube!"
+### "Enquanto Deus for meu chão, não há quem me derrube!"
 
 - Aprendendo a gostar um pouco mais de programação.
