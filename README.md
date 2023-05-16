@@ -1,17 +1,18 @@
-
-
 ### Olá! Eu sou o Andrei 👋
 
+- Tenho 17 anos, e sou Técnico de Informática para a Internet.
+- Back-end.
+- 1 ano e 4 mêses de curso no Senac.
+- Estou em busca de um Emprego na área de TI.
+
+<hr>
 <br>
-
-[![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreifer_16)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreifer_16/)
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-fernandes-14b7aa233/)
-
 
 ![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andreifer&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreifer&layout=compact)](https://github.com/andreifer/github-readme-stats)
+
+<hr>
 
 ## Tecnologias que eu uso no dia a dia:
 
@@ -28,6 +29,20 @@
 
 <br>
 
+<hr>
+
 ### "Enquanto Deus for meu chão, não há quem me derrube!"
 
 - Aprendendo a gostar um pouco mais de programação.
+
+<hr>
+
+<br>
+
+## ⬇ Redes Sociais ⬇
+
+[![Social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreifer_16)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreifer_16/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-fernandes-14b7aa233/)
+
+<br>
