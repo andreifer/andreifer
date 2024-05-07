@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Andrei 👋
 
-- Tenho 17 anos, e sou Técnico de Informática para a Internet.
+- Tenho 18 anos, e sou Técnico de Informática para a Internet.
 - Back-end.
 - 1 ano e 4 mêses de curso no Senac.
 - Estou em busca de um Emprego na área de TI.
